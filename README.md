@@ -74,14 +74,7 @@ Step 5️⃣: Process Returns & Refunds (A9)  ➝  Step 6️⃣: Generate Report
 git clone https://github.com/devtalent2030/Point-of-Sale-Batch-System.git
 cd Point-of-Sale-Batch-System
 ```
-
-### **2️⃣ Run the Setup Script**
-```bash
-./setup_pos.sh
-```
-This will create all required directories and placeholder files.
-
-### **3️⃣ Submit Batch Job for Execution**
+### **2️⃣ Submit Batch Job for Execution**
 Run the master JCL job to process all transactions:
 ```bash
 SUBMIT 'KC03YYY.DCMAFD01.JCL(POS_BATCH_MASTER)'
