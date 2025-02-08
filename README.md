@@ -124,7 +124,8 @@ For a complete sample report, see the **results** folder.
 ✅ **Enterprise-Ready Design** – Follows modular architecture and structured data processing.  
 ✅ **Audit & Compliance Ready** – Ensures all transactions are logged and traceable.  
 ✅ **Scalability & Performance** – Designed to process  
-✅ <span style="font-size: 24px; font-weight: bold; color: gold;">MILLIONS</span> of records efficiently.  
+### **💰 MILLIONS** of Records Processed Efficiently!
+✅ **Scalability & Performance** – Designed to process millions of records efficiently.
 ✅ **Automated Processing Pipeline** – No manual intervention required once deployed.
   
 ---
