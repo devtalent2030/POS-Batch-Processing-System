@@ -38,18 +38,9 @@ Point-of-Sale-Batch-System/
 │   ├── KC03E9B.DCMAFD01.A7.RPT.OUT.pdf  # Splitting Report (A7)
 │   ├── KC03E9B.DCMAFD01.A8.RPT.OUT.pdf  # Sales & Layaway Report (A8)
 │   ├── KC03E9B.DCMAFD01.A9.RPT.OUT.pdf  # Returns Report (A9)
-│── 📂 documentation/                  # Detailed system documentation
-│   ├── A6 - Point of Sale 1 - Edit.docx
-│   ├── A7 - Point of Sale 2 - Split.docx
-│   ├── A8 - Point of Sale 3 - SL.docx
-│   ├── A9 - Point of Sale 4 - Returns.docx
-│   ├── SYSTEM_ARCHITECTURE.pdf       # High-level system flow and architecture
-│── 📂 test_cases/                     # Sample input & expected output
-│   ├── sample_input.txt
-│   ├── expected_output.txt
-│── README.md                          # Enterprise-Level Documentation
+│── README.md                          # Documentation
 │── .gitignore                          # Files to be ignored by Git
-```
+    ```
 ---
 
 
