@@ -10,7 +10,7 @@ This system follows **enterprise-level mainframe development best practices**, l
 ---
 
 ## **📂 Folder Structure**
-```
+    ```
 Point-of-Sale-Batch-System/
 │── 📂 source_code/                # COBOL and JCL source files
 │   ├── A6EDIT.cbl                 # POS Editing program (A6)
