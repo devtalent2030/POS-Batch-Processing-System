@@ -24,7 +24,7 @@ This system models those requirements through a modular batch pipeline built on 
 ---
 
 ## System Architecture
-
+![Batch Processing Overview](/asserts/batch_processing_overview.png)
 The solution follows a staged batch-processing architecture where each program performs a single, clearly defined responsibility within a controlled job stream.
 
 End-to-end processing flow:
